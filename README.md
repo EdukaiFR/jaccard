@@ -38,6 +38,10 @@ OPTIONS:
    -h              : display this message
 ```
 
+<br>
+
+You can find some **Input-Output examples** [here](/examples/examples.md)
+
 ### License
 
 This project is licensed under the Apache 2.0 License - see the [LICENSE](/LICENSE) file for details.
