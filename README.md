@@ -34,5 +34,6 @@ USAGE: ./jaccard <str1> <str2>
    <str2>          : The second text to compare (as a string)
 
 OPTIONS:
+   -n              : print the numeric result only
    -h              : display this message
 ```
