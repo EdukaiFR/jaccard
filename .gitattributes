@@ -1,2 +1,4 @@
 Makefile linguist-vendored
 dune linguist-generated
+dune-project linguist-vendored
+dune-project linguist-generated
