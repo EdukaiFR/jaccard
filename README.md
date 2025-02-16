@@ -28,13 +28,13 @@ make
 3. Then you can use it as specified here :
 
 ```
-USAGE: ./jaccard <str1> <str2>
+USAGE: ./jaccard <str1> <str2> [OPTIONS]
 
    <str1>          : The first text to compare (as a string)
    <str2>          : The second text to compare (as a string)
 
 OPTIONS:
-   -n              : print the numeric result only
+   -n              : print the numeric result only. E.g: 42.00%
    -h              : display this message
 ```
 
