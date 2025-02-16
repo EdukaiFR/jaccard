@@ -37,3 +37,7 @@ OPTIONS:
    -n              : print the numeric result only
    -h              : display this message
 ```
+
+### License
+
+This project is licensed under the Apache 2.0 License - see the [LICENSE](/LICENSE) file for details.
