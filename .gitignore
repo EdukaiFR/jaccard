@@ -1,0 +1,8 @@
+# Dune build and generated files
+_build/
+bin/
+lib/
+test/
+
+# Output executable
+jaccard
