@@ -12,6 +12,7 @@ let set_of_list text =
 let normalize (text: string) : string list =
   text
   |> String.lowercase_ascii
+  |> String.map (fun c -> if is_alpha c || is_digit c then c else ' ')
   |> String.split_on_char ' '
   |> List.sort_uniq compare
 
